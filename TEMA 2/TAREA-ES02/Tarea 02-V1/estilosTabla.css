@@ -1,0 +1,21 @@
+table {
+    margin: auto; /* Centra la tabla horizontalmente */
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 8px;
+    text-align: center;
+    border: 1px solid black; /* Agrega bordes negros */
+}
+
+th {
+    background-color: rgb(6, 6, 122);
+    color: white;
+}
+
+caption {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
